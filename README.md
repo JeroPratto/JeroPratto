@@ -3,8 +3,6 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-jeronimo-pratto.vercel.app/](https://portfolio-jeronimo-pratto.vercel.app/)
 
-- 📝 Regularmente escribo artículos en [https://blog-personal-jero .vercel.app/](https://blog-personal-jero.vercel.app/)
-
 - 📫 Cómo contactarme **jeropratto@yahoo.com.ar**
 
 <h3 align="left">Conéctate conmigo :</h3>
